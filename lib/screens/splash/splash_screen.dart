@@ -17,7 +17,7 @@ class _SplashScreenState extends State<SplashScreen> {
           'assets/lottie/splash.json',
           width: 200,
           height: 200,
-          fit: BoxFit.contain
+          fit: BoxFit.contain,
         ),
       ),
     );
